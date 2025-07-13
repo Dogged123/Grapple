@@ -1,0 +1,7 @@
+name: Grapple
+version: '${project.version}'
+main: dogged.grapple.Grapple
+api-version: '1.21'
+commands:
+  grapple:
+    usage: /<command>
